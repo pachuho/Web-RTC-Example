@@ -1,3 +1,7 @@
+
+
+
+
 /*
  *  Copyright 2014 The WebRTC Project Authors. All rights reserved.
  *
@@ -16,6 +20,8 @@ import android.util.Log;
 /**
  * AppRTCUtils provides helper functions for managing thread safety.
  */
+
+// Add remote branch
 public final class AppRTCUtils {
   private AppRTCUtils() {}
 
